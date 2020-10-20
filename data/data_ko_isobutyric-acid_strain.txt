@@ -1,0 +1,11 @@
+focA, https://www.uniprot.org/uniprot/P0AC23
+pflB, https://www.uniprot.org/uniprot/P09373
+aceEF, https://www.uniprot.org/uniprot/P0ACL9
+poxB, https://www.uniprot.org/uniprot/P07003
+tdcE, https://www.uniprot.org/uniprot/P42632
+pflDC
+deoC, https://www.uniprot.org/uniprot/P0A6L0
+ydbK, https://www.uniprot.org/uniprot/P52647
+yqhD, https://www.uniprot.org/uniprot/Q46856
+araBA
+xylAB, https://www.uniprot.org/uniprot/D1MDQ9
