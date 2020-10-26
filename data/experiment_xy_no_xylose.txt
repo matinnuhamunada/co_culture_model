@@ -1,0 +1,5 @@
+experiment_id,model_id,objective
+wt_glu_biomass,model,BIOMASS_Ec_iML1515_core_75p37M
+wt_glu_acetate,model,EX_ac_e
+mt_glu_biomass,mutant,BIOMASS_Ec_iML1515_core_75p37M
+mt_glu_acetate,mutant,EX_ac_e

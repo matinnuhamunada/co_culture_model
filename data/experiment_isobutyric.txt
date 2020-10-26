@@ -1,0 +1,5 @@
+experiment_id,model_id,objective
+wt_glu_xy_ac_biomass,model,BIOMASS_Ec_iML1515_core_75p37M
+wt_glu_xy_ac_iso,model,DHAD1
+mt_glu_xy_ac_biomass,mutant,BIOMASS_Ec_iML1515_core_75p37M
+mt_glu_xy_ac_iso,mutant,DHAD1

@@ -1,8 +1,8 @@
-focA, https://www.uniprot.org/uniprot/P0AC23
-pflB, https://www.uniprot.org/uniprot/P09373
-ldhA, https://www.uniprot.org/uniprot/P52643
-adhE, https://www.uniprot.org/uniprot/P0A9Q7
-xylAB, https://www.uniprot.org/uniprot/D1MDQ9
-frdA, https://www.uniprot.org/uniprot/P00363
-cyoB, https://www.uniprot.org/uniprot/P0ABI8
-appB, https://www.uniprot.org/uniprot/P26458
+focA,https://www.uniprot.org/uniprot/P0AC23
+pflB,https://www.uniprot.org/uniprot/P09373
+ldhA,https://www.uniprot.org/uniprot/P52643
+adhE,https://www.uniprot.org/uniprot/P0A9Q7
+xylAB,https://www.uniprot.org/uniprot/P09099
+frdA,https://www.uniprot.org/uniprot/P00363
+cyoB,https://www.uniprot.org/uniprot/P0ABI8
+appB,https://www.uniprot.org/uniprot/P26458
